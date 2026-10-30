@@ -1,0 +1,6 @@
+{
+  "name": "GeoSpy OSINT Bot",
+  "description": "Telegram bot for GEOINT and visual geolocation analysis, EXIF inspection, reverse image search links, and investigative dossiers with full admin control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
